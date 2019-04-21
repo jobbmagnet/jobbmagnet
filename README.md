@@ -1,0 +1,2 @@
+# jobbmagnet
+Automatisk jobbsökning
